@@ -23,7 +23,7 @@ function areObjectsEqual(obj1, obj2) {
   ```
 
 1. ### Function Definition:
-We define a function called 'areObjectsEqual' that takes two objects, 'obj1' and 'obj2', as parameters.
+>- We define a function called 'areObjectsEqual' that takes two objects, 'obj1' and 'obj2', as parameters.
 
 2. ### Convert Objects to Arrays:
 >- We convert both 'obj1' and 'obj2' into arrays of key-value pairs. This is done using 'Object.entries(obj)'.
